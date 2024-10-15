@@ -1,0 +1,27 @@
+/* AdvancedTips.css */
+
+.advanced-tips-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .advanced-tips-container h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .advanced-tips-container section {
+    margin-bottom: 20px;
+  }
+  
+  .advanced-tips-container h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .advanced-tips-container p {
+    font-size: 1em;
+    line-height: 1.6;
+  }
+  

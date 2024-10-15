@@ -1,0 +1,49 @@
+/* Troubleshooting.css */
+
+.troubleshooting-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .troubleshooting-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .troubleshooting-container p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+  }
+  
+  .troubleshooting-container section {
+    margin-bottom: 20px;
+  }
+  
+  .troubleshooting-container h2 {
+    font-size: 1.75rem;
+    color: #444;
+    margin-bottom: 10px;
+  }
+  
+  .troubleshooting-container ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .troubleshooting-container ul li {
+    margin-bottom: 10px;
+  }
+  
+  .troubleshooting-container a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .troubleshooting-container a:hover {
+    text-decoration: underline;
+  }
+  

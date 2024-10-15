@@ -1,0 +1,102 @@
+.manager-dashboard {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.dashboard-header {
+  margin-bottom: 20px;
+}
+
+.dashboard-heading {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.dashboard-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.summary-item {
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  flex: 1;
+  text-align: center;
+}
+
+.total-collection {
+  background-color: #e3f2fd;
+}
+
+.todays-collection {
+  background-color: #e8f5e9;
+}
+
+.todays-stock {
+  background-color: #fff3e0;
+}
+
+.todays-projection {
+  background-color: #ffebee;
+}
+
+.chart-container {
+  margin-bottom: 20px;
+}
+
+.chart-heading {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.employee-collection-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.employee-collection-table th,
+.employee-collection-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.employee-collection-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.employee-collection-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.employee-collection-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+  
+  
+
+  
+  
+  
+  
+  

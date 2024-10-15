@@ -1,0 +1,38 @@
+.reports-and-analytics {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .reports-and-analytics h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .reports-and-analytics table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .reports-and-analytics th,
+  .reports-and-analytics td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .reports-and-analytics th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .reports-and-analytics tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .reports-and-analytics tr:hover {
+    background-color: #f1f1f1;
+  }
+  

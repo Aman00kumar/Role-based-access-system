@@ -1,0 +1,36 @@
+.resource-center-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  .guides-list, .faq-list, .documentation-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .guides-list li, .faq-list li, .documentation-list li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,49 @@
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: flex-start; /* Align items to the left */
+}
+
+li {
+  margin-right: 20px; /* Add margin to create space between items */
+}
+
+li:last-child {
+  margin-right: 0; /* Remove margin from the last item */
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+a:hover {
+  background-color: #555;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #555;
+}
+
